@@ -847,6 +847,7 @@
 
 
 ## Related Works
+- Awesome-Astra-Embodied-AI [[repo](https://github.com/zjwzcx/Awesome-Astra-Embodied-AI)]
 - Awesome-WAM [[repo](https://github.com/OpenMOSS/Awesome-WAM)]
 - OpenWorldLib [[repo](https://github.com/OpenDCAI/OpenWorldLib)]
 - Awesome World Models [[repo](https://github.com/knightnemo/Awesome-World-Models)]
